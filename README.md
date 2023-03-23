@@ -25,6 +25,12 @@ $$\mathcal{L}$$
 ```
 $$\prod_{k=1}^{n} p(x)$$ 
 
+- fraction
+```
+\frac{3}{4}
+```
+$$\frac{3}{4}$$
+
 - summation
 ```
 \sum_{k=1}^{n}p(x)
